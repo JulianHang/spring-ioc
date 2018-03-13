@@ -155,55 +155,6 @@
                               </java.beans.PropertyChangeSupport>
                             </listeners>
                             <source class="net.java.amateras.uml.classdiagram.model.InterfaceModel" reference="../../.."/>
-                            <target class="net.java.amateras.uml.classdiagram.model.InterfaceModel" reference="../../.."/>
-                            <bendpoints>
-                              <net.java.amateras.uml.editpart.ConnectionBendpoint>
-                                <weight>0.5</weight>
-                                <d1>
-                                  <width>0</width>
-                                  <height>0</height>
-                                </d1>
-                                <d2>
-                                  <width>200</width>
-                                  <height>0</height>
-                                </d2>
-                              </net.java.amateras.uml.editpart.ConnectionBendpoint>
-                              <net.java.amateras.uml.editpart.ConnectionBendpoint>
-                                <weight>0.5</weight>
-                                <d1>
-                                  <width>200</width>
-                                  <height>0</height>
-                                </d1>
-                                <d2>
-                                  <width>200</width>
-                                  <height>-46</height>
-                                </d2>
-                              </net.java.amateras.uml.editpart.ConnectionBendpoint>
-                              <net.java.amateras.uml.editpart.ConnectionBendpoint>
-                                <weight>0.5</weight>
-                                <d1>
-                                  <width>200</width>
-                                  <height>-46</height>
-                                </d1>
-                                <d2>
-                                  <width>0</width>
-                                  <height>-46</height>
-                                </d2>
-                              </net.java.amateras.uml.editpart.ConnectionBendpoint>
-                            </bendpoints>
-                          </net.java.amateras.uml.model.AnchorModel>
-                          <net.java.amateras.uml.model.AnchorModel>
-                            <showIcon>true</showIcon>
-                            <listeners serialization="custom">
-                              <java.beans.PropertyChangeSupport>
-                                <default>
-                                  <source class="net.java.amateras.uml.model.AnchorModel" reference="../../../.."/>
-                                  <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
-                                </default>
-                                <null/>
-                              </java.beans.PropertyChangeSupport>
-                            </listeners>
-                            <source class="net.java.amateras.uml.classdiagram.model.InterfaceModel" reference="../../.."/>
                             <target class="net.java.amateras.uml.classdiagram.model.InterfaceModel" reference="../../../../../.."/>
                             <bendpoints/>
                           </net.java.amateras.uml.model.AnchorModel>
@@ -2919,7 +2870,6 @@
                             <bendpoints/>
                           </net.java.amateras.uml.classdiagram.model.GeneralizationModel>
                           <net.java.amateras.uml.classdiagram.model.RealizationModel reference="../net.java.amateras.uml.classdiagram.model.RealizationModel/source/sourceConnections/net.java.amateras.uml.classdiagram.model.RealizationModel[13]"/>
-                          <net.java.amateras.uml.model.AnchorModel reference="../../sourceConnections/net.java.amateras.uml.model.AnchorModel"/>
                         </targetConnections>
                         <children>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
@@ -3245,7 +3195,7 @@
                       <target class="net.java.amateras.uml.classdiagram.model.InterfaceModel" reference="../../.."/>
                       <bendpoints/>
                     </net.java.amateras.uml.classdiagram.model.RealizationModel>
-                    <net.java.amateras.uml.model.AnchorModel reference="../../sourceConnections/net.java.amateras.uml.classdiagram.model.GeneralizationModel/target/sourceConnections/net.java.amateras.uml.model.AnchorModel[2]"/>
+                    <net.java.amateras.uml.model.AnchorModel reference="../../sourceConnections/net.java.amateras.uml.classdiagram.model.GeneralizationModel/target/sourceConnections/net.java.amateras.uml.model.AnchorModel"/>
                   </targetConnections>
                   <children/>
                   <filterProperty/>
